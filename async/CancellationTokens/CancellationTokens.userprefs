@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AD33321F-7158-4F10-B082-D6EEEE448B01}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CancellationTokens/Program.cs">
+    <Files>
+      <File FileName="CancellationTokens/Program.cs" Line="11" Column="6" />
+      <File FileName="CancellationTokens/DeviceLocationService.cs" Line="24" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.CancellationTokens PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
