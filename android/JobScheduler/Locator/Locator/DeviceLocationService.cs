@@ -12,7 +12,7 @@ namespace Locator
 
     public class DeviceLocationService : IDeviceLocationService
     {
-        private const string TAG = nameof(DeviceLocationService);
+        private const string TAG = "BB-Locator";
 
         public Task UpdateDeviceLocation(CancellationToken cancellationToken = default(CancellationToken))
         {
