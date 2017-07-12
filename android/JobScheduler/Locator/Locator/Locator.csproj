@@ -52,6 +52,7 @@
     <Compile Include="UpdateDeviceLocationReceiver.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="README.MD" />
     <None Include="Resources\AboutResources.txt" />
     <None Include="Properties\AndroidManifest.xml" />
     <None Include="Assets\AboutAssets.txt" />

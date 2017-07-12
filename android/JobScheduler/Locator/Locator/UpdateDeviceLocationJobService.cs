@@ -12,8 +12,8 @@ namespace Locator
 {
 	[Service(Enabled = true, Exported = true, Permission = "android.permission.BIND_JOB_SERVICE")]
 	public class UpdateDeviceLocationJobService : JobService
-	{
-        private const string TAG = nameof(UpdateDeviceLocationJobService);
+    {
+        private const string TAG = "BB-Locator";
         private readonly IDeviceLocationService _deviceLocationService = new DeviceLocationService();
 
 		private static Dictionary<int, CancellationTokenSource> _cancellationTokens;
